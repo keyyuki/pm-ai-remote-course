@@ -59,7 +59,9 @@ Sau khi hoàn thành khóa học, học viên có thể:
 - Đặc thù dự án phần mềm. Vòng đời phát triển phần mềm (SDLC).
 - Giới thiệu Agile Manifesto và các nguyên tắc.
 - Tổng quan về Scrum.
-- **Thách thức và Công cụ Giao tiếp/Cộng tác cho Đội nhóm Từ xa:** Giới thiệu Telegram, Zoom, FigJam, Confluence, Google Drive. Tầm quan trọng của giao tiếp đồng bộ và bất đồng bộ.
+- **Thách thức và Công cụ Giao tiếp/Cộng tác cho Đội nhóm Từ xa:**
+  - Giới thiệu Telegram, Zoom, FigJam, Google Drive.
+  - Tầm quan trọng của giao tiếp đồng bộ và bất đồng bộ.
 - AI có thể giúp gì trong dự án phần mềm?
 
 ### Module 2: Làm chủ Jira cho Dự án Phần mềm (Cơ bản)
@@ -69,9 +71,20 @@ Sau khi hoàn thành khóa học, học viên có thể:
 - Các loại Issue trong Jira.
 - Workflow cơ bản.
 - Sử dụng Backlog và Sprint/Kanban Board.
-- **Phối hợp Jira với các công cụ khác:** Liên kết Issue với tài liệu trên Confluence, thảo luận nhanh qua Telegram.
 
-### Module 3: Git & Quản lý Mã nguồn cho Người mới
+### Module 3: Quản lý Tài liệu và Cộng tác với Confluence
+
+- **Giới thiệu Confluence:**
+  - Vai trò của Confluence trong lưu trữ tài liệu dự án (yêu cầu, đặc tả, biên bản họp...).
+  - Tạo và chỉnh sửa trang cơ bản.
+  - Tổ chức nội dung (Spaces, Page Trees).
+  - Cách sử dụng comment để thảo luận.
+- **Phối hợp Jira với Confluence:**
+  - Liên kết Issue Jira với trang tài liệu trên Confluence.
+  - Nhúng (embed) danh sách Issue Jira vào trang Confluence.
+- **Tích hợp với các công cụ khác:** Thảo luận nhanh qua Telegram về nội dung trên Confluence.
+
+### Module 4: Git & Quản lý Mã nguồn cho Người mới
 
 - Lợi ích của Git.
 - Các khái niệm cốt lõi: Repository, Commit, Branch...
@@ -79,43 +92,43 @@ Sau khi hoàn thành khóa học, học viên có thể:
 - Liên kết Jira với Git.
 - Thực hành các lệnh Git cơ bản.
 
-### Module 4: Thực hành Quy trình Scrum trên Jira trong Môi trường Từ xa
+### Module 5: Thực hành Quy trình Scrum trên Jira trong Môi trường Từ xa
 
 - Quản lý Product Backlog.
 - Sprint Planning và Sprint Backlog (Sử dụng Jira kết hợp FigJam/Zoom để thảo luận).
 - Theo dõi tiến độ Sprint (Daily Standup từ xa hiệu quả qua Zoom/Telegram).
 - Sprint Review và Retrospective (Sử dụng Jira, Zoom, FigJam để trình bày và thu thập phản hồi).
-- **Kỹ thuật giao tiếp bất đồng bộ trong Scrum:** Cập nhật trạng thái, thảo luận qua comment Jira/Confluence/Telegram.
+- **Kỹ thuật giao tiếp bất đồng bộ trong Scrum:** Cập nhật trạng thái, thảo luận qua comment Jira, Confluence (Module 3), Telegram.
 
-### Module 5: Khai thác Sức mạnh AI cho QTDDA Phần mềm
+### Module 6: Khai thác Sức mạnh AI cho QTDDA Phần mềm
 
 - Giới thiệu các công cụ AI hỗ trợ.
 - Hỗ trợ viết User Story, Test Case, Tóm tắt tài liệu...
 - Chuẩn bị nội dung họp với AI.
 - **AI hỗ trợ công việc từ xa:** Tóm tắt cuộc họp Zoom, đề xuất lịch họp phù hợp múi giờ.
 
-### Module 6: Kỹ năng "Ra lệnh" cho AI (Prompt Engineering Cơ bản)
+### Module 7: Kỹ năng "Ra lệnh" cho AI (Prompt Engineering Cơ bản)
 
 - Cấu trúc prompt hiệu quả.
 - Kỹ thuật prompting: Zero-shot, Few-shot, Chain-of-thought.
 - Thực hành viết prompt.
 
-### Module 7: Lấy Dữ liệu từ Jira & Git để "Nói chuyện" với AI
+### Module 8: Lấy Dữ liệu từ Jira & Git để "Nói chuyện" với AI
 
 - Cách Export dữ liệu từ Jira.
 - Hiểu dữ liệu từ Git log.
-- **Kết hợp dữ liệu từ các nguồn:** Tham chiếu tài liệu từ Confluence/Google Drive khi chuẩn bị dữ liệu cho AI.
+- **Kết hợp dữ liệu từ các nguồn:** Tham chiếu tài liệu từ Confluence (Module 3)/Google Drive khi chuẩn bị dữ liệu cho AI.
 - Chuẩn bị dữ liệu để đưa cho AI.
 
-### Module 8: Phân tích & Báo cáo Thông minh với AI
+### Module 9: Phân tích & Báo cáo Thông minh với AI
 
 - Phân tích dữ liệu export bằng AI.
 - Tóm tắt tiến độ, phát hiện bottleneck.
 - Thực hành phân tích dữ liệu mẫu.
 
-### Module 9: Tích hợp Quy trình & Tương lai với AI trong Môi trường Từ xa
+### Module 10: Tích hợp Quy trình & Tương lai với AI trong Môi trường Từ xa
 
-- Quy trình tổng thể: Requirement (Confluence) -> Jira -> Telegram/Zoom/FigJam (Thảo luận) -> Git -> Code -> Deploy.
+- Quy trình tổng thể: Requirement (Confluence - Module 3) -> Jira (Module 2) -> Telegram/Zoom/FigJam (Thảo luận) -> Git (Module 4) -> Code -> Deploy.
 - Vai trò của AI trong từng bước.
 - **Xây dựng văn hóa đội nhóm từ xa.**
 - Hạn chế và đạo đức AI.
