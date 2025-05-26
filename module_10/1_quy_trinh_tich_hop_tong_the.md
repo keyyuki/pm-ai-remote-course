@@ -30,11 +30,11 @@ Sau khi yêu cầu được làm rõ và tài liệu hóa, chúng được chuy�
 
 **Điểm kết nối**: Mỗi Issue Jira có thể được liên kết đến các tài liệu Confluence và sau này sẽ được liên kết đến các commit Git.
 
-### 3. Thảo luận và làm rõ yêu cầu qua Telegram/Zoom/FigJam
+### 3. Thảo luận và làm rõ yêu cầu qua Microsoft Teams/Zoom/FigJam
 
 Quy trình làm việc từ xa đòi hỏi giao tiếp hiệu quả để làm rõ các yêu cầu:
 
-- **Telegram**: Giao tiếp bất đồng bộ hàng ngày, chia sẻ cập nhật và thảo luận nhanh
+- **Microsoft Teams**: Giao tiếp bất đồng bộ hàng ngày qua kênh và chat, họp video tích hợp, chia sẻ và cộng tác trên tài liệu
 - **Zoom**: Cuộc họp đồng bộ, Sprint Planning, Daily Standup, Sprint Reviews
 - **FigJam**: Bảng trắng tương tác để thảo luận ý tưởng và giải pháp trực quan
 
@@ -61,7 +61,7 @@ Việc phát triển và kiểm thử trong môi trường từ xa:
 - **Integration Testing**: Kiểm thử tích hợp
 - **UAT (User Acceptance Testing)**: Kiểm tra chấp nhận của người dùng
 
-**Điểm kết nối**: Kết quả kiểm thử được cập nhật vào Jira và có thể được thảo luận qua Telegram/Zoom.
+**Điểm kết nối**: Kết quả kiểm thử được cập nhật vào Jira và có thể được thảo luận qua Microsoft Teams/Zoom.
 
 ### 6. Triển khai (Deployment)
 
@@ -90,9 +90,9 @@ Quá trình đưa sản phẩm từ môi trường phát triển đến người
 
 ### 3. Jira ↔️ Chat/Collaboration Tools
 
-- Bot Telegram/Slack thông báo khi Issue được cập nhật
-- Tích hợp Jira với Google Calendar cho lịch Sprint
-- Tự động tạo phòng Zoom cho các cuộc họp Scrum
+- Microsoft Teams integrations và Power Automate thông báo khi Issue được cập nhật
+- Tích hợp Jira với Microsoft Outlook/Google Calendar cho lịch Sprint
+- Tự động tạo cuộc họp Teams/Zoom cho các cuộc họp Scrum
 
 ### 4. Git ↔️ CI/CD Tools
 
@@ -188,7 +188,7 @@ Quy trình tích hợp tổng thể trong dự án phần mềm từ xa đòi h�
 
 1. Vẽ sơ đồ quy trình tích hợp cho một dự án phần mềm từ xa cụ thể.
 2. Thực hành tạo liên kết giữa Jira và Git thông qua smart commits.
-3. Thiết lập một webhook đơn giản giữa Git repository và kênh Telegram/Slack.
+3. Thiết lập một webhook đơn giản giữa Git repository và kênh Microsoft Teams.
 4. Phát triển một kế hoạch tối ưu hóa quy trình cho một team làm việc từ xa đang gặp khó khăn trong giao tiếp và phối hợp.
 
 ## Câu hỏi thảo luận

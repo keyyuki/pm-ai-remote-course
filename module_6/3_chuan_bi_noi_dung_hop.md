@@ -137,7 +137,7 @@ Hãy tạo:
 **Prompt mẫu cho tài liệu Daily Standup**
 
 ```
-Hãy giúp tôi chuẩn bị template cho Daily Standup từ xa qua [Zoom/Teams/Telegram].
+Hãy giúp tôi chuẩn bị template cho Daily Standup từ xa qua [Zoom/Microsoft Teams].
 
 Thông tin:
 - Team size: [số lượng thành viên]

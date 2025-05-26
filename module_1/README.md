@@ -8,7 +8,7 @@ Sau khi hoàn thành module này, học viên có thể:
 - Nhận biết các mô hình vòng đời phát triển phần mềm phổ biến, đặc biệt là mô hình Agile/Scrum.
 - Nắm được các nguyên lý cốt lõi của Agile Manifesto.
 - Hiểu được cấu trúc và vai trò của Scrum framework.
-- **Nhận biết các thách thức và công cụ giao tiếp/cộng tác chính (Telegram, Zoom, FigJam, Confluence, Google Drive) cho đội nhóm làm việc từ xa.**
+- **Nhận biết các thách thức và công cụ giao tiếp/cộng tác chính (Microsoft Teams, Zoom, FigJam, Confluence, Google Drive) cho đội nhóm làm việc từ xa.**
 - Có cái nhìn ban đầu về cách AI có thể hỗ trợ trong quá trình quản lý dự án phần mềm.
 
 ---

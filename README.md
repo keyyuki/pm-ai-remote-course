@@ -95,10 +95,10 @@ Sau khi hoàn thành khóa học, học viên có thể:
 ### Module 5: Thực hành Quy trình Scrum trên Jira trong Môi trường Từ xa
 
 - Quản lý Product Backlog.
-- Sprint Planning và Sprint Backlog (Sử dụng Jira kết hợp FigJam/Zoom để thảo luận).
-- Theo dõi tiến độ Sprint (Daily Standup từ xa hiệu quả qua Zoom/Telegram).
-- Sprint Review và Retrospective (Sử dụng Jira, Zoom, FigJam để trình bày và thu thập phản hồi).
-- **Kỹ thuật giao tiếp bất đồng bộ trong Scrum:** Cập nhật trạng thái, thảo luận qua comment Jira, Confluence (Module 3), Telegram.
+- Sprint Planning và Sprint Backlog (Sử dụng Jira kết hợp FigJam/Teams/Zoom để thảo luận).
+- Theo dõi tiến độ Sprint (Daily Standup từ xa hiệu quả qua Microsoft Teams/Zoom).
+- Sprint Review và Retrospective (Sử dụng Jira, Teams, Zoom, FigJam để trình bày và thu thập phản hồi).
+- **Kỹ thuật giao tiếp bất đồng bộ trong Scrum:** Cập nhật trạng thái, thảo luận qua comment Jira, Confluence (Module 3), Microsoft Teams.
 
 ### Module 6: Khai thác Sức mạnh AI cho QTDDA Phần mềm
 

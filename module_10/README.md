@@ -20,7 +20,7 @@ Sau khi hoàn thành module này, học viên có thể:
 - Phân tích luồng công việc tích hợp:
   - Thu thập yêu cầu qua Confluence (Module 3)
   - Quản lý công việc trên Jira (Module 2)
-  - Thảo luận và làm rõ yêu cầu qua Telegram/Zoom/FigJam
+  - Thảo luận và làm rõ yêu cầu qua Microsoft Teams/Zoom/FigJam
   - Quản lý mã nguồn bằng Git (Module 4)
   - Quy trình code và kiểm thử
   - Triển khai (Deployment)
@@ -73,7 +73,7 @@ Sau khi hoàn thành module này, học viên có thể:
 ## 🛠 Phương pháp giảng dạy
 
 - **Phân tích tình huống thực tế:** Nghiên cứu quy trình end-to-end của một dự án phần mềm làm việc từ xa.
-- **Demo tích hợp:** Minh họa cách các công cụ (Confluence, Jira, Git, Telegram, AI) kết nối và làm việc cùng nhau.
+- **Demo tích hợp:** Minh họa cách các công cụ (Confluence, Jira, Git, Microsoft Teams, AI) kết nối và làm việc cùng nhau.
 - **Thảo luận nhóm:** Chia sẻ kinh nghiệm và thách thức trong việc xây dựng văn hóa đội nhóm từ xa.
 - **Workshop:** Thiết kế quy trình làm việc tích hợp cho một dự án giả định.
 - **Panel discussion:** Thảo luận về những cân nhắc đạo đức và xu hướng tương lai của AI trong QTDDA.

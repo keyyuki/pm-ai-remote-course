@@ -39,12 +39,12 @@ Sau khi hoàn thành module này, học viên có thể:
 - **Sprint Planning:**
   - Đội phát triển chọn các User Story từ Product Backlog.
   - Lập kế hoạch Sprint trên Jira.
-  - Sử dụng FigJam/Zoom để thảo luận và phân công công việc.
+  - Sử dụng FigJam và Microsoft Teams/Zoom để thảo luận và phân công công việc.
 
 #### 2.3. Phát triển và theo dõi tiến độ
 
 - **Daily Standup:**
-  - Tổ chức họp hàng ngày qua Zoom để cập nhật tiến độ.
+  - Tổ chức họp hàng ngày qua Microsoft Teams hoặc Zoom để cập nhật tiến độ.
 - **Theo dõi trên Jira:**
   - Cập nhật trạng thái Issue trên Sprint Board.
   - Ví dụ: "Tính năng tìm kiếm phòng" chuyển từ "In Progress" sang "Done".
@@ -68,7 +68,7 @@ Sau khi hoàn thành module này, học viên có thể:
 #### 2.6. Sprint Review và Retrospective
 
 - **Sprint Review:**
-  - Trình bày kết quả Sprint qua Zoom.
+  - Trình bày kết quả Sprint qua Microsoft Teams hoặc Zoom.
   - Khách hàng phản hồi và xác nhận tính năng.
 - **Sprint Retrospective:**
   - Sử dụng FigJam để thảo luận những gì làm tốt và cần cải thiện.

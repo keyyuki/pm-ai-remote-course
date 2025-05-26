@@ -4,7 +4,7 @@
 
 Sau khi học xong phần này, học viên sẽ:
 
-- Biết cách **chia sẻ nhanh chóng nội dung Confluence** qua các công cụ chat như Telegram.
+- Biết cách **chia sẻ nhanh chóng nội dung Confluence** qua Microsoft Teams.
 - Hiểu khái niệm về việc **nhúng nội dung từ các công cụ khác** (ví dụ: FigJam) vào Confluence.
 - Nhận biết **Google Drive như một giải pháp thay thế/bổ sung** cho Confluence và cách liên kết giữa chúng.
 - Hiểu được tầm quan trọng của việc lựa chọn công cụ phù hợp cho từng loại thông tin và ngữ cảnh giao tiếp.
@@ -15,32 +15,41 @@ Sau khi học xong phần này, học viên sẽ:
 
 Confluence là một công cụ mạnh mẽ để quản lý tài liệu và kiến thức, nhưng trong hệ sinh thái làm việc của một đội nhóm (đặc biệt là đội nhóm từ xa), nó thường không đứng một mình. Việc tích hợp Confluence với các công cụ giao tiếp và cộng tác khác giúp luồng thông tin trở nên liền mạch và hiệu quả hơn.
 
-#### 3.1. Chia sẻ và Thảo luận nội dung Confluence qua Telegram (hoặc công cụ chat khác)
+#### 3.1. Chia sẻ và Thảo luận nội dung Confluence qua Microsoft Teams
 
-Đôi khi, bạn cần thảo luận nhanh về một tài liệu hoặc thông báo cho nhóm về một cập nhật quan trọng trên Confluence. Thay vì yêu cầu mọi người tự vào Confluence tìm trang, bạn có thể chủ động chia sẻ liên kết.
+Đôi khi, bạn cần thảo luận nhanh về một tài liệu hoặc thông báo cho nhóm về một cập nhật quan trọng trên Confluence. Thay vì yêu cầu mọi người tự vào Confluence tìm trang, bạn có thể chủ động chia sẻ liên kết thông qua Microsoft Teams.
 
 - **Khi nào dùng:**
   - Thông báo cho nhóm về một biên bản họp vừa được đăng.
   - Hỏi nhanh ý kiến về một phần cụ thể trong tài liệu đặc tả.
   - Chia sẻ một hướng dẫn kỹ thuật mới cho thành viên mới.
-- **Cách làm:**
+- **Cách làm cơ bản:**
+
   1.  Mở trang Confluence bạn muốn chia sẻ.
   2.  Trên thanh địa chỉ của trình duyệt, **copy URL (đường link)** của trang đó.
-  3.  Mở ứng dụng **Telegram** (hoặc Slack, Zalo...).
-  4.  Vào **nhóm chat** của dự án hoặc chat riêng với người cần gửi.
+  3.  Mở ứng dụng **Microsoft Teams**.
+  4.  Vào **kênh (channel)** thích hợp hoặc **cuộc hội thoại** (chat) với người/nhóm cần gửi.
   5.  **Dán (paste) URL** vào ô soạn tin nhắn.
   6.  **(Quan trọng)** Thêm một **tin nhắn mô tả ngắn gọn** về nội dung bạn đang chia sẻ và **lý do** bạn muốn mọi người xem (ví dụ: "Biên bản họp Sprint Planning hôm nay đã có trên Confluence nhé mọi người:", "Nhờ @Tester xem giúp phần yêu cầu A.1 trong đặc tả này:", "Hướng dẫn cài đặt môi trường cho thành viên mới:").
   7.  Gửi tin nhắn.
 
-_(Hình ảnh minh họa tin nhắn Telegram có chứa link Confluence và mô tả)_
+- **Tận dụng các tính năng tích hợp của Teams:**
+  1. **Smart Link Preview:** Khi bạn dán URL Confluence vào Teams, nó sẽ tự động tạo một thẻ xem trước (preview card) với tiêu đề và hình thu nhỏ của trang.
+  2. **Tab Confluence:** Có thể thêm tab Confluence vào kênh Teams để truy cập trực tiếp các trang Confluence từ kênh đó:
+     - Tại kênh Teams, nhấp vào dấu "+" ở đầu kênh
+     - Tìm và chọn "Confluence"
+     - Đăng nhập vào Atlassian (nếu cần) và chọn không gian (space) Confluence muốn kết nối
+
+_(Hình ảnh minh họa tin nhắn Teams có chứa link Confluence và mô tả)_
 
 - **Lợi ích:**
-  - **Nhanh chóng và tiện lợi:** Mọi người nhận được thông báo ngay trên công cụ chat quen thuộc.
-  - **Tăng khả năng tiếp cận:** Giúp những người ít khi chủ động vào Confluence vẫn nắm được thông tin.
-  - **Tạo điểm bắt đầu thảo luận:** Cuộc thảo luận nhanh có thể diễn ra ngay trên Telegram, sau đó kết luận quan trọng có thể được cập nhật lại vào trang Confluence.
+  - **Nhanh chóng và tiện lợi:** Mọi người nhận được thông báo ngay trên Teams mà không cần chuyển đổi ứng dụng.
+  - **Xem trước thông minh:** Teams hiển thị preview của nội dung Confluence ngay trong luồng chat.
+  - **Tích hợp sâu:** Có thể xem và thậm chí chỉnh sửa nội dung Confluence ngay trong Teams thông qua tab Confluence.
+  - **Cấu trúc thảo luận:** Teams cho phép gộp các phản hồi theo chủ đề (thread) giúp các cuộc thảo luận về tài liệu được tổ chức tốt hơn.
 - **Lưu ý:**
-  - **Không lạm dụng:** Tránh spam nhóm chat bằng quá nhiều link Confluence không cần thiết.
-  - **Cung cấp ngữ cảnh:** Luôn giải thích tại sao bạn chia sẻ link đó.
+  - **Không lạm dụng:** Tránh spam kênh Teams bằng quá nhiều link Confluence không cần thiết.
+  - **Chọn kênh phù hợp:** Chia sẻ vào kênh liên quan đến nội dung, tránh chia sẻ vào kênh General nếu không cần thiết.
   - **Đảm bảo quyền truy cập:** Người nhận link cần có quyền xem trang Confluence đó.
 
 #### 3.2. Nhúng nội dung từ công cụ khác vào Confluence
@@ -120,7 +129,7 @@ _(Hình ảnh minh họa nhúng Google Doc vào Confluence)_
   3.  SM **nhúng bảng FigJam** chứa kết quả brainstorm từ buổi Retrospective Sprint 2 (dùng link FigJam).
   4.  **Designer** lưu các file thiết kế giao diện cuối cùng (định dạng .fig hoặc .png) lên một thư mục trên **Google Drive**. Designer lấy link chia sẻ thư mục đó và **dán link vào trang Confluence**.
   5.  **Product Owner** soạn thảo slide trình bày kết quả Sprint trên **Google Slides**. PO lấy link chia sẻ slide và **nhúng slide đó vào trang Confluence**.
-  6.  Cuối cùng, SM **copy link trang Confluence** tổng hợp này và gửi vào **nhóm chat Telegram** với lời nhắn: "Tài liệu chuẩn bị cho Sprint Review chiều nay đã sẵn sàng trên Confluence, mọi người xem qua nhé!".
+  6.  Cuối cùng, SM **copy link trang Confluence** tổng hợp này và **đăng vào kênh Teams của dự án** với lời nhắn: "Tài liệu chuẩn bị cho Sprint Review chiều nay đã sẵn sàng trên Confluence, mọi người xem qua nhé!".
 
 Kết quả: Mọi thông tin cần thiết cho buổi họp từ nhiều nguồn khác nhau đều được tập trung tại một trang Confluence duy nhất, dễ dàng truy cập và tham chiếu.
 
@@ -128,7 +137,7 @@ Kết quả: Mọi thông tin cần thiết cho buổi họp từ nhiều nguồ
 
 ### 🧠 Câu hỏi thảo luận gợi mở
 
-- Ngoài Telegram, FigJam, Google Drive, bạn biết công cụ nào khác có thể tích hợp tốt với Confluence không?
+- Ngoài Microsoft Teams, FigJam, Google Drive, bạn biết công cụ nào khác có thể tích hợp tốt với Confluence không?
 - Theo bạn, quy tắc nào là quan trọng nhất khi quyết định nên lưu trữ thông tin trên Confluence hay Google Drive?
 - Việc nhúng quá nhiều nội dung từ bên ngoài vào Confluence có thể gây ra rủi ro gì về bảo mật hoặc quản lý quyền truy cập?
 
@@ -141,3 +150,4 @@ Kết quả: Mọi thông tin cần thiết cho buổi họp từ nhiều nguồ
 - **Use the FigJam for Confluence macro:** [https://support.atlassian.com/confluence-cloud/docs/use-the-figjam-for-confluence-macro/](https://support.atlassian.com/confluence-cloud/docs/use-the-figjam-for-confluence-macro/)
 - **Use the Google Drive & Docs for Confluence macro:** [https://support.atlassian.com/confluence-cloud/docs/use-the-google-drive-docs-for-confluence-macro/](https://support.atlassian.com/confluence-cloud/docs/use-the-google-drive-docs-for-confluence-macro/)
 - **Smart Links:** [https://support.atlassian.com/confluence-cloud/docs/insert-links-and-anchors/#Smart-Links](https://support.atlassian.com/confluence-cloud/docs/insert-links-and-anchors/#Smart-Links)
+- **Confluence for Microsoft Teams:** [https://www.atlassian.com/software/confluence/microsoft-teams](https://www.atlassian.com/software/confluence/microsoft-teams)

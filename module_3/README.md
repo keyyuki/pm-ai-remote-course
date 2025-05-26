@@ -8,7 +8,7 @@ Sau khi hoàn thành module này, học viên có thể:
 - Tạo, chỉnh sửa và tổ chức các trang tài liệu cơ bản trên Confluence.
 - Sử dụng các tính năng cộng tác như comment để thảo luận trên tài liệu.
 - Liên kết các Issue từ Jira với tài liệu trên Confluence và ngược lại.
-- Hiểu cách tích hợp Confluence với các công cụ giao tiếp khác như Telegram.
+- Hiểu cách tích hợp Confluence với các công cụ giao tiếp khác như Microsoft Teams.
 
 ---
 
@@ -34,7 +34,7 @@ Sau khi hoàn thành module này, học viên có thể:
 ### 3. Tích hợp với các công cụ khác
 
 - **(Dự kiến file chi tiết: `3_tich_hop_cong_cu_khac.md`)**
-- Chia sẻ link trang Confluence qua Telegram để thảo luận nhanh.
+- Chia sẻ link trang Confluence qua Microsoft Teams để thảo luận nhanh.
 - Nhúng các nội dung từ công cụ khác vào Confluence (ví dụ: FigJam board).
 - Sử dụng Google Drive như một giải pháp thay thế/bổ sung và cách liên kết.
 

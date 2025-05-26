@@ -5,9 +5,9 @@
 Sau khi học xong phần này, học viên sẽ:
 
 - Nhận diện được những **thách thức phổ biến** khi các thành viên trong nhóm làm việc không cùng một địa điểm.
-- Biết tên và chức năng chính của các **công cụ hỗ trợ làm việc từ xa** được giới thiệu trong khóa học: Telegram, Zoom, FigJam, Confluence, Google Drive.
+- Biết tên và chức năng chính của các **công cụ hỗ trợ làm việc từ xa** được giới thiệu trong khóa học: Microsoft Teams, Zoom, FigJam, Confluence, Google Drive.
 - Phân biệt được **giao tiếp đồng bộ** (real-time) và **giao tiếp bất đồng bộ** (không cần trả lời ngay) và khi nào nên dùng loại nào.
-- Hiểu được một số **lưu ý quan trọng** khi sử dụng Telegram làm công cụ chat chính cho dự án.
+- Hiểu được một số **lưu ý quan trọng** khi sử dụng Microsoft Teams làm công cụ giao tiếp chính cho dự án.
 
 ---
 
@@ -42,11 +42,11 @@ Trong khóa học này, chúng ta sẽ tìm hiểu và sử dụng một bộ c�
 
 ##### 📞 Công cụ Giao tiếp:
 
-- **Telegram (Chat & Thông báo):**
-  - **Chức năng chính:** Nhắn tin nhanh, tạo nhóm chat, gọi thoại/video call (ít dùng hơn Zoom), gửi file, tạo kênh thông báo.
-  - **Khi nào dùng:** Trao đổi nhanh hàng ngày, thông báo cập nhật, thảo luận không quá trang trọng, chia sẻ link, file nhỏ.
-  - **Ưu điểm:** Phổ biến, đơn giản, miễn phí, đa nền tảng (điện thoại, máy tính).
-  - **Nhược điểm (sẽ nói kỹ hơn):** Khó tổ chức thảo luận theo chủ đề sâu, tìm kiếm thông tin cũ có thể khó khăn, ít tích hợp với công cụ quản lý dự án chuyên nghiệp.
+- **Microsoft Teams (Chat, Cuộc họp & Cộng tác):**
+  - **Chức năng chính:** Nhắn tin nhanh, tạo nhóm chat/kênh, họp video chất lượng cao, chia sẻ file, tích hợp ứng dụng, hợp tác trên tài liệu.
+  - **Khi nào dùng:** Giao tiếp hàng ngày, tổ chức cuộc họp, thảo luận theo chủ đề, chia sẻ và làm việc trên tài liệu, quản lý dự án.
+  - **Ưu điểm:** Tích hợp sâu với hệ sinh thái Microsoft 365, tổ chức thảo luận theo kênh và tab, kết hợp được cả giao tiếp đồng bộ và bất đồng bộ, đa nền tảng (điện thoại, máy tính).
+  - **Nhược điểm (sẽ nói kỹ hơn):** Giao diện có thể phức tạp hơn cho người mới, một số tính năng nâng cao yêu cầu đăng ký trả phí Microsoft 365.
 - **Zoom (Họp video & Trình bày):**
   - **Chức năng chính:** Tổ chức cuộc họp video chất lượng cao, chia sẻ màn hình, ghi lại cuộc họp, bảng trắng ảo (đơn giản), phòng họp nhóm nhỏ (breakout rooms).
   - **Khi nào dùng:** Các buổi họp cần tương tác trực tiếp (Daily Scrum, Sprint Planning, Review, Retrospective), demo sản phẩm, thảo luận phức tạp cần nhìn thấy nhau.
@@ -80,37 +80,39 @@ Khi làm việc từ xa, hiểu rõ hai kiểu giao tiếp này rất quan trọ
 
 - **Giao tiếp Đồng bộ (Synchronous Communication):**
   - **Là gì:** Các bên trao đổi thông tin **cùng một lúc**, cần có sự chú ý ngay lập tức (real-time).
-  - **Ví dụ:** Họp Zoom, gọi điện thoại, chat Telegram mà mong muốn trả lời ngay.
+  - **Ví dụ:** Họp Zoom, họp Teams, gọi điện thoại, chat Teams mà mong muốn trả lời ngay.
   - **Khi nào dùng:** Cần giải quyết vấn đề gấp, brainstorm ý tưởng, đưa ra quyết định nhanh, xây dựng mối quan hệ (nhìn thấy mặt nhau).
   - **Thách thức:** Khó sắp xếp nếu chênh lệch múi giờ, dễ làm gián đoạn công việc của người khác, có thể gây mệt mỏi nếu họp quá nhiều.
 - **Giao tiếp Bất đồng bộ (Asynchronous Communication):**
   - **Là gì:** Các bên trao đổi thông tin **không cần cùng một lúc**. Người nhận có thể đọc và trả lời khi họ có thời gian.
-  - **Ví dụ:** Gửi email, bình luận trên Jira/Confluence, nhắn tin Telegram mà không yêu cầu trả lời ngay, gửi bản ghi video/âm thanh.
+  - **Ví dụ:** Gửi email, bình luận trên Jira/Confluence, nhắn tin Teams trong kênh/chat nhóm mà không yêu cầu trả lời ngay, gửi bản ghi video/âm thanh.
   - **Khi nào dùng:** Thông báo không gấp, chia sẻ tài liệu để đọc sau, đặt câu hỏi không cần trả lời tức thì, cập nhật tiến độ, làm việc với người khác múi giờ.
   - **Thách thức:** Có thể chậm trễ nếu cần quyết định nhanh, đòi hỏi kỹ năng viết rõ ràng, súc tích để tránh hiểu lầm.
 
 **Lời khuyên:** Một đội nhóm từ xa hiệu quả cần **kết hợp cả hai loại hình giao tiếp**. Ưu tiên giao tiếp bất đồng bộ cho các cập nhật thông thường để tôn trọng sự tập trung của người khác, và sử dụng giao tiếp đồng bộ cho các vấn đề cần thảo luận sâu hoặc ra quyết định nhanh.
 
-#### 5.4. Lưu ý khi sử dụng Telegram làm công cụ chat chính cho dự án
+#### 5.4. Lưu ý khi sử dụng Microsoft Teams làm công cụ giao tiếp chính cho dự án
 
-Như đã đề cập, Telegram rất tiện lợi và phổ biến, nhưng khi dùng cho công việc dự án, cần lưu ý để khắc phục nhược điểm của nó so với các công cụ chuyên nghiệp hơn (như Slack hay Microsoft Teams):
+Microsoft Teams là công cụ giao tiếp và cộng tác toàn diện được thiết kế đặc biệt cho môi trường làm việc, nhưng để tận dụng tối đa hiệu quả của nó trong quản lý dự án phần mềm, cần lưu ý:
 
-1.  **Thiết lập Kênh/Nhóm rõ ràng:**
-    - **Không nên dùng một nhóm chat duy nhất cho tất cả mọi thứ.**
-    - Hãy tạo các nhóm riêng biệt cho:
-      - **Thông báo chung:** Chỉ những người có quyền mới được đăng (ví dụ: PM, Leader).
-      - **Thảo luận chung của dự án:** Nơi mọi người có thể trao đổi các vấn đề chung.
-      - **Nhóm cho từng tính năng lớn/module:** Nếu dự án phức tạp, giúp tập trung thảo luận.
-      - **Nhóm "Off-topic"/Xã giao:** Để trò chuyện vui vẻ, không làm loãng kênh công việc.
-2.  **Sử dụng tính năng "Reply" (Trả lời):** Khi trả lời một tin nhắn cụ thể, hãy dùng chức năng Reply để giữ mạch thảo luận, tránh làm người khác khó hiểu bạn đang nói về vấn đề gì.
-3.  **Sử dụng Hashtag (#):** Có thể quy ước dùng hashtag để đánh dấu các loại thông tin quan trọng, giúp tìm kiếm sau này dễ hơn (ví dụ: `#quyetdinh`, `#canhoi`, `#loi_gap`).
-4.  **Ghim tin nhắn quan trọng (Pin Message):** Ghim các thông báo, quy định, link tài liệu quan trọng lên đầu nhóm chat để mọi người dễ thấy.
-5.  **Chuyển thông tin quan trọng sang nơi lưu trữ chính thức:**
-    - **Quyết định cuối cùng, yêu cầu chính thức, tài liệu quan trọng** đã thống nhất qua chat **phải được ghi lại** trên Confluence hoặc trong mô tả Issue của Jira.
-    - **Không nên để thông tin cốt lõi chỉ tồn tại trong lịch sử chat Telegram**, vì nó rất dễ bị trôi và khó tìm lại sau này.
-6.  **Tôn trọng thời gian của người khác:** Tránh tag `@all` (thông báo cho tất cả mọi người) nếu không thực sự cần thiết. Hạn chế nhắn tin ngoài giờ làm việc trừ khi có việc khẩn cấp.
+1.  **Tổ chức Đội nhóm (Teams) và Kênh (Channels) hợp lý:**
+    - **Tạo Teams riêng** cho mỗi dự án lớn hoặc bộ phận trong công ty.
+    - **Thiết lập các kênh (channels) theo chủ đề** trong mỗi Team:
+      - **Kênh General (Chung):** Mặc định có sẵn, dùng cho thông báo quan trọng của dự án.
+      - **Kênh theo chức năng/module:** Ví dụ "Frontend", "Backend", "QA", "Design" để tập trung thảo luận chuyên môn.
+      - **Kênh theo quy trình:** Ví dụ "Backlog-Discussion", "Sprint-Planning", "Daily-Updates".
+      - **Kênh Off-topic/Social:** Để trò chuyện không liên quan đến công việc, tăng gắn kết nhóm.
+2.  **Tận dụng chủ đề thảo luận (Conversation threads):** Sử dụng tính năng trả lời (Reply) trong cùng một chủ đề để giữ các cuộc thảo luận được tổ chức và dễ theo dõi.
+3.  **Sử dụng Tab trong kênh:** Thêm các tab như Files (tệp), Wiki, Planner, SharePoint để tổ chức thông tin và công cụ liên quan.
+4.  **Đánh dấu thông báo (@mentions) phù hợp:** Chỉ đánh dấu (@mention) những người thực sự cần biết, tránh lạm dụng @team hoặc @channel để không làm phiền cả nhóm.
+5.  **Ghim (Pin) nội dung quan trọng:** Ghim thông báo, tài liệu quan trọng trong các kênh để dễ dàng truy cập.
+6.  **Tích hợp với Jira và Confluence:**
+    - Thêm tab Jira và Confluence vào các kênh liên quan.
+    - Sử dụng tính năng chia sẻ liên kết thông minh (smart link) để hiển thị nội dung preview khi chia sẻ URL.
+    - **Quyết định quan trọng từ cuộc thảo luận Teams vẫn cần được ghi lại** trong Confluence hoặc Jira.
+7.  **Sử dụng Teams Meeting có mục đích:** Lên lịch họp với agenda rõ ràng, ghi lại cuộc họp cho người vắng mặt, sử dụng tính năng chia sẻ màn hình và whiteboard khi cần thiết.
 
-Bằng cách áp dụng những quy tắc này, bạn có thể tận dụng sự tiện lợi của Telegram mà vẫn giữ được sự ngăn nắp và hiệu quả cho giao tiếp dự án.
+Bằng cách tận dụng cấu trúc phân cấp và các tính năng tích hợp của Microsoft Teams, bạn có thể tạo ra một môi trường giao tiếp có tổ chức, dễ theo dõi và kết nối với các công cụ quản lý dự án khác.
 
 ---
 
@@ -125,21 +127,21 @@ Bằng cách áp dụng những quy tắc này, bạn có thể tận dụng s�
 - **Knowledge Base (Cơ sở tri thức):** Nơi tập trung lưu trữ thông tin, tài liệu, kiến thức của một tổ chức hoặc dự án.
 - **Synchronous (Đồng bộ):** Xảy ra cùng một lúc.
 - **Asynchronous (Bất đồng bộ):** Không xảy ra cùng một lúc.
-- **Hashtag:** Từ hoặc cụm từ đứng sau dấu `#` dùng để đánh dấu hoặc phân loại nội dung.
-- **Pin Message (Ghim tin nhắn):** Giữ một tin nhắn luôn hiển thị ở vị trí nổi bật trong nhóm chat.
+- **Channels (Kênh):** Trong Teams, là không gian thảo luận được tổ chức xoay quanh một chủ đề, phòng ban hoặc dự án cụ thể.
+- **Tabs (Tab):** Trong Teams, là các ứng dụng hoặc nội dung được ghim vào kênh để truy cập nhanh (ví dụ: tab Files, Wiki, Planner).
 
 ---
 
 ### 🧠 Câu hỏi thảo luận gợi mở
 
 - Bạn đã từng gặp khó khăn gì khi làm việc nhóm online (ví dụ: học nhóm, làm bài tập lớn)? Bạn đã giải quyết thế nào?
-- Theo bạn, khi nào thì nên chat Telegram, khi nào nên gọi Zoom?
+- Theo bạn, khi nào thì nên sử dụng chat Teams, khi nào nên tổ chức cuộc họp Teams/Zoom?
 - Tại sao việc ghi lại quyết định từ chat sang Confluence/Jira lại quan trọng?
 
 ---
 
 ### 📌 Tài liệu & Tham khảo
 
-- Các trang web giới thiệu về Telegram, Zoom, FigJam, Confluence, Google Drive.
+- Các trang web giới thiệu về Microsoft Teams, Zoom, FigJam, Confluence, Google Drive.
 - Bài viết về giao tiếp đồng bộ và bất đồng bộ (Tìm kiếm: "synchronous vs asynchronous communication remote work").
 - Các bài viết về kinh nghiệm làm việc từ xa hiệu quả.
